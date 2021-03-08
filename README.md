@@ -1,16 +1,34 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋 If interested in reviewing my work or please visit [my portfolio](http://www.bybrittanycoleman.com) 
 
-<!--
-**bcbell/bcbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+I am an Atlanta-based Software Engineer. In addition, to creating beautiful applications, I also design applications that are functional and user focus.
 
-Here are some ideas to get you started:
+### Background:
+I have many years of professional experience as a recruiter and talent consultant within the staffing industry. I recruited a range of talent in varying industries from aviation to IT/Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education:
+- Certification, Software Engineering | General Assembly
+- Bachelor's of Arts |Columbus State University
+- Master of Science | Brenau University 
+
+### Current Endeavors:
+- Perfecting my coding knowledge and skill 
+
+
+### Technology Proficiencies 
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- Express.js
+- React
+- Python
+- Django
+- Markdown
+
+### Contact Me
+Please feel free to [contact me](brittany@bybrittanycoleman.com) for further discuss my work, collaborating, feedback!
+
+__Thank you for stopping by my GitHub!__
+
+
