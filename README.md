@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile 👋 If interested in reviewing my work or please visit [my portfolio](http://www.bybrittanycoleman.com) 
+### Welcome to my GitHub profile!👋 If interested in reviewing my work or please visit [my portfolio](http://www.bybrittanycoleman.com). 
 
 ### About Me:
 I am an Atlanta-based Software Engineer. In addition, to creating beautiful applications, I also design applications that are functional and user focus.
